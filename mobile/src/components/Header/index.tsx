@@ -17,7 +17,7 @@ export function Header(){
         </TouchableOpacity>
 
         <UserPhoto
-        imageUri='https://github.com/LCDS97.png'
+        imageUri='https://github.com/lcds97.png'
         />
         </View>
     </View>
